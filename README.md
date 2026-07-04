@@ -32,6 +32,7 @@ Get comfortable with pandas, sklearn, and basic ML workflows.
 | 3 | [Customer Churn](FUNDAMENTAL%20PROJECTS/Customer%20Churn) | Logistic regression from scratch, prediction on new data | Classification |
 | 4 | [Heart Failure Prediction](FUNDAMENTAL%20PROJECTS/Heart%20Failure%20Prediction) | Feature analysis, multiple classifiers, model evaluation | Classification |
 | 5 | [Rental Prices of AirBnb](FUNDAMENTAL%20PROJECTS/Rental%20Prices%20of%20AirBnb) | Linear regression, outlier analysis, label encoding | Regression |
+| 6 | [Avocado Price Prediction](FUNDAMENTAL%20PROJECTS/Avocado%20Price%20Prediction)  | Linear regression, outlier analysis, label encoding | Regression |
 
 ### Level 2 -- **Has Not Begun**
 
