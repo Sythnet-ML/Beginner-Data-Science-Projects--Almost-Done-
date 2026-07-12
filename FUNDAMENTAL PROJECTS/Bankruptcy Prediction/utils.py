@@ -67,5 +67,18 @@ def plot(y_true, y_pred, model_name):
     
     plt.tight_layout(); plt.show()
     
-def cross_val()
+
+def cross_v_score(est, X_test, y_test,):
+    score = cross_val_score(
+        est,
+        X_test,
+        y_test,
+        cv= 5,
+        scoring= 'f1'
+    )
+    
+    print(f"CV f1: {score.round(4)}")
+    print(f"CV Mean score: {score.mean():.4f}, (+/- {score.std():.4f})")
+    
+    return score
 
