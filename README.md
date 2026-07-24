@@ -15,9 +15,9 @@
 This repository is designed for **anyone getting started with data science** -- students, career switchers, and self-learners. Each project is a standalone Jupyter notebook that you can clone and run immediately.
 
 You will learn:
-- **Data Cleaning and Preprocessing** -- preparing real-world messy data
-- **Exploratory Data Analysis** -- visualizations and statistical insights
-- **Machine Learning** -- classification, regression, and anomaly detection
+- **Data Cleaning and Preprocessing** -- preparing real-world messy data.
+- **Exploratory Data Analysis** -- visualizations and statistical insights.
+- **Machine Learning** -- classification, regression, and anomaly detection.
 
 ### [Fundamentals Project](FUNDAMENTAL%20PROJECTS)
 
