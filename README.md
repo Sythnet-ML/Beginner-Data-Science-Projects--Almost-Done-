@@ -1,4 +1,4 @@
-<h1 align='center'>Beginner Machine Learning Projects</h1>
+<h1 align='center'>Beginner Data Science/Machine Learning Projects</h1>
 <p align='center'>
 <img src='asset\ml-e1610553826718.jpg' alt='Image Preview' width=500>
 
@@ -15,11 +15,11 @@
 This repository is designed for **anyone getting started with data science** -- students, career switchers, and self-learners. Each project is a standalone Jupyter notebook that you can clone and run immediately.
 
 You will learn:
-- **Data Cleaning and Preprocessing** -- preparing real-world messy data
-- **Exploratory Data Analysis** -- visualizations and statistical insights
-- **Machine Learning** -- classification, regression, and anomaly detection
+- **Data Cleaning and Preprocessing** -- preparing real-world messy data.
+- **Exploratory Data Analysis** -- visualizations and statistical insights.
+- **Machine Learning** -- classification, regression, and anomaly detection.
 
-### [Fundamentals Project](FUNDAMENTAL%20PROJECTS)
+### [Fundamental Projects](FUNDAMENTAL%20PROJECTS)
 
 Get comfortable with pandas, sklearn, and basic ML workflows.
 
